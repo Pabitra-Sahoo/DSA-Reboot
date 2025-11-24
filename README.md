@@ -36,6 +36,13 @@ The goal is consistency, clarity, and code quality.
       <img src="https://img.shields.io/badge/Lec%202-7%2F22%20Solved-blue?style=flat-square" />
     </td>
   </tr>
+  <tr>
+  <td>02</td>
+  <td>Nov 24, 2025</td>
+  <td><img src="https://img.shields.io/badge/Lec%202-9%2F22%20Solved-blue?style=flat-square" />
+</td>
+  </tr>
+  
 </table>
 
 ## 📂 Repository Structure
